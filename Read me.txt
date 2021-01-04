@@ -1,0 +1,8 @@
+What is in Template Design...
+1. Header and there one company name or logo & menu
+2. Banner and there one heading text & one dummy text 
+3. Service section and there three differents categories services 
+4. Client testimonial section and there two clients comments reviewed
+5. Recent News section and latest news available there 4 columns
+6. Footer section and there about company, latest news, & company address
+7. At the end main footer copy right and some social icons
